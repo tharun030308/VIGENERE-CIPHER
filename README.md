@@ -98,7 +98,8 @@ int main()
 ```
 
 ## OUTPUT
-![Uploading image.png…]()
+<img width="285" height="112" alt="image" src="https://github.com/user-attachments/assets/202659a1-aa90-4d09-9498-fb17c7055f6a" />
+
 
 ## RESULT
 Thus, the C program to implement the Vigenère Cipher substitution technique was successfully executed, and the given plaintext was encrypted and decrypted using the keyword.
